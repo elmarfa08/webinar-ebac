@@ -1,0 +1,51 @@
+
+.divhe{
+    position: static;
+    background-color: white;
+    height: 80px;
+    box-shadow: 0px 1px 3px rgb(0 0 0 / 20%);            
+}
+div{
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.divmain{
+    height: 76px;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: table;
+}
+.divl{
+    min-width: 378px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.divc{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    width: 100%;
+}
+.ulc li{
+    display: inline;
+    padding-left:12px;
+    padding-right:12px;
+}
+.divr{
+    min-width: 378px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: right;
+}
+.divr1{
+    padding-left: 30px;
+    display: table-cell;
+    margin-top: 50px;
+    white-space: nowrap;
+}
+.divmid{
+    background-color: rgb(126, 158, 185);
+    height: 800px;
+}
